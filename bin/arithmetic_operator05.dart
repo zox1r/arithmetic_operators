@@ -8,4 +8,8 @@ Find the division of a and b then assign to "answer".
 */
 void main() {
   //write your code here
+  int a = 72;
+  int b = 9;
+  double answer = a / b;
+  print(answer); 
 }
